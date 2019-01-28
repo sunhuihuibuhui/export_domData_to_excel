@@ -4,3 +4,4 @@
 npm i --save script-loader file-saver
 npm i xlsx
 把Export2Excel.js和Blob.js放静态文件夹static中
+注意Export2Excel.js中第二行blob.js的位置要写对
